@@ -1,0 +1,112 @@
+[
+{
+    "model": "news.newsstory",
+    "pk": 1,
+    "fields": {
+        "title": "This Was Supposed To Be A Plant Progress Post Showing Off My Oxalis But Henk Stole The Show",
+        "author": 1,
+        "pub_date": "2023-12-04T16:00:00Z",
+        "content": "Douglas Justice is the associate director of the University of British Columbia’s botanical garden. He has agreed to lend his botanical expertise to us and share some of his favorite unusual plants.\r\n\r\nJustice’s love for plants is immediately evident in the way he speaks about them: “I’ve come across many unusual and compelling plants in my years. It’s difficult for me to choose favorites (the lists are always expanding). I can usually find something that’s interesting in nearly all plants—the way some flowers, like poppies, for example, are unpacked from their buds.\"\r\n\r\n\"How they go, miraculously, from crinkled and bent to satiny smooth. I also like repeating patterns in plants: how for every hebe species (shrubby Veronica) there is another species slightly different in leaf size, shape, color or leaf angle, and another intermediate between the two.”",
+        "image": "https://www.boredpanda.com/blog/wp-content/uploads/2023/08/64edf46412c08_interesting-unusual-plants.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 2,
+    "fields": {
+        "title": "This Is A Flame Lily, The National Flower Of Zimbabwe",
+        "author": 1,
+        "pub_date": "2023-12-04T16:00:00Z",
+        "content": "When asked what unusual flora he would recommend for growing at home, Douglas suggests leaf succulents and peperomias. They are easily grown and excellent windowsill subjects. “Speaking of peperomias,” Justice goes on, “on a magnolia expedition in Colombia some years ago I encountered a tree branch festooned with epiphytic peperomias so small they could fit into a thimble.\r\n\r\n\"I have no idea what their names are. A day or so later in Jardin Botanico de Bogota Jose Celestino Mutis, we came across the exquisite blue-flowered bromeliad known as the 'sapphire tower' (Puya alpestris) and the Venezuelan conifer Retrophyllum rospigliossii, a tree with fern-like branchlets so regular and perfect they look like they were churned out in a 3D printer.” Reading about these botanical adventures gives me an urge for some plant expeditions.",
+        "image": "https://www.boredpanda.com/blog/wp-content/uploads/2023/08/interesting-unusual-plants-78-64ccdc4ccaa5a__700.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 3,
+    "fields": {
+        "title": "The Plant Crotalaria Cunninghamii Mimicks Birds",
+        "author": 1,
+        "pub_date": "2023-12-05T16:00:00Z",
+        "content": "Douglas has one more suggestion for excitement-seeking plant parents. “A somewhat less tropical Andean plant I have grown (though repeatedly lost), is blue angel’s trumpets (Iochroma australe). This plant is a knockout. Its purple-blue pendulous trumpets would be a welcome addition in any garden.”\r\n\r\nJustice then shares an adventure that suddenly makes me want to become the Short Round to his Indiana Jones. “[O]n a hillside in the Cocoro Valley (across from an expanse of Quindio wax palms) grew a huge red iochroma shrub (Iochroma gesnerioides), with ample clusters of hanging long-tubed flowers of a scarlet so intense it nearly burned the eyes.”",
+        "image": "https://www.boredpanda.com/blog/wp-content/uploads/2023/07/64c76668db7ec_w98jc6lo0zp41__700.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 4,
+    "fields": {
+        "title": "Breaking Barriers - Female Coders Lead Innovation in the Tech World",
+        "author": 1,
+        "pub_date": "2023-12-09T16:00:00Z",
+        "content": "City, Date - In a male-dominated industry, female coders are breaking through barriers and leaving an indelible mark on the world of technology. Today, we shine a spotlight on a group of exceptional women who are not just keeping pace but setting the pace in the coding world.",
+        "image": "https://images.tech.co/wp-content/uploads/2012/07/Women-in-Tech.jpeg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 5,
+    "fields": {
+        "title": "test 1",
+        "author": 1,
+        "pub_date": "2023-02-11T17:12:00Z",
+        "content": "Meet Emily Rodriguez, a software engineer at a leading tech company, whose groundbreaking work in artificial intelligence has garnered international acclaim. \"It's crucial to create an environment where everyone's ideas are valued,\" says Rodriguez, emphasizing the importance of diversity in the tech industry.",
+        "image": "https://culturefit.com/wp-content/uploads/2018/10/women-technology.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 6,
+    "fields": {
+        "title": "Breaking Barriers - Female Coders Lead Innovation in the Tech World",
+        "author": 1,
+        "pub_date": "2023-12-09T18:30:00Z",
+        "content": "test",
+        "image": "https://images.tech.co/wp-content/uploads/2012/07/Women-in-Tech.jpeg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 8,
+    "fields": {
+        "title": "Women are Changing the Tech Gender Rules",
+        "author": 1,
+        "pub_date": "2023-12-11T09:41:00Z",
+        "content": "In a groundbreaking shift for the tech industry, women around the world are spearheading a movement to redefine gender norms and break through the barriers of the traditionally male-dominated tech sector.\r\n\r\nA powerful image captured the essence of this movement as women from diverse backgrounds and fields within technology gathered at a global conference to discuss their experiences, challenges, and triumphs. The image, which has since gone viral on social media, features a group of women confidently standing in front of a backdrop displaying the words \"Women in Technology: Breaking Barriers, Shaping the Future.\"\r\n\r\nThe conference, organized by a coalition of women-led tech organizations, aimed to address the gender gap in the tech industry and foster a supportive community for women in various tech-related roles. Attendees included programmers, engineers, designers, entrepreneurs, and executives who shared inspiring stories of overcoming obstacles in their careers.\r\n\r\nKeynote speakers emphasized the importance of diversity in driving innovation and solving complex problems. The event also showcased successful women in tech who have made significant contributions to their respective fields, serving as role models for the next generation of female technologists.\r\n\r\nSeveral panel discussions focused on strategies to promote inclusivity, eliminate bias, and create supportive environments within tech companies. Participants engaged in lively debates about the need for mentorship programs, educational initiatives, and changes in workplace culture to encourage more women to pursue and thrive in tech careers.\r\n\r\nThe viral image has become a symbol of the collective strength and determination of women in technology. Social media platforms are buzzing with hashtags such as #TechEquality and #WomenInTech, with users sharing personal stories, experiences, and words of encouragement for aspiring female tech professionals.\r\n\r\nAs this movement gains momentum, it is expected to bring about a significant shift in the tech industry's landscape. Companies are increasingly recognizing the value of diverse perspectives, and initiatives are underway to actively recruit and support women in technology roles.\r\n\r\nThe Women in Technology conference has sparked a global conversation about the future of the industry, with advocates and allies joining forces to create a more inclusive and equitable tech world. The image, capturing a moment of unity and determination, serves as a powerful reminder that women are not just breaking through the glass ceiling; they are reshaping the very foundations of the tech industry.",
+        "image": "https://culturefit.com/wp-content/uploads/2018/10/women-technology.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 9,
+    "fields": {
+        "title": "Helping to make technology a more diverse and inclusive working environment",
+        "author": 1,
+        "pub_date": "2023-12-11T09:48:00Z",
+        "content": "eadline: HerTechTalent Initiative Paves the Way for a More Inclusive Tech Industry\r\n\r\nSubheading: Empowering Women and Promoting Diversity in Technology\r\n\r\nIn a groundbreaking move toward fostering diversity and inclusivity in the technology sector, the HerTechTalent initiative has emerged as a catalyst for change. Aimed at breaking down barriers and providing opportunities for underrepresented groups, this initiative is making waves in the male-dominated tech industry.\r\n\r\n[City], [Date] - The HerTechTalent initiative, launched with the mission of creating a more diverse and inclusive working environment in the technology sector, is gaining momentum and support from industry leaders and professionals alike. With a focus on empowering women and promoting diversity, the initiative is set to redefine the landscape of the tech industry.\r\n\r\nAddressing the Gender Gap:\r\nOne of the primary objectives of HerTechTalent is to address the gender gap prevalent in the technology field. According to recent studies, women are significantly underrepresented in tech roles, comprising only a fraction of the workforce. HerTechTalent aims to bridge this gap by providing mentorship, training, and networking opportunities to women aspiring to build successful careers in technology.\r\n\r\nCreating Opportunities for Underrepresented Groups:\r\nThe initiative is not limited to addressing gender disparities alone. HerTechTalent recognizes the importance of diversity in all its forms and is committed to creating an inclusive environment for individuals from various backgrounds. This includes people of color, individuals with disabilities, and other underrepresented groups in the tech industry.\r\n\r\nPartnerships with Industry Leaders:\r\nHerTechTalent has already forged partnerships with major tech companies committed to promoting diversity and inclusion. These partnerships include mentorship programs, internship opportunities, and scholarships designed to support individuals from underrepresented groups in pursuing careers in technology.\r\n\r\nPromoting Education and Skill Development:\r\nTo ensure a sustainable impact, HerTechTalent is investing in education and skill development programs. This includes workshops, training sessions, and online resources to equip individuals with the necessary skills and knowledge to thrive in the tech industry. By addressing the skills gap, the initiative aims to empower a more diverse workforce.\r\n\r\nPositive Responses from the Tech Community:\r\nThe HerTechTalent initiative has received widespread support from the tech community, with many professionals expressing enthusiasm for the positive changes it promises to bring. Industry leaders have lauded the initiative for its proactive approach to fostering diversity and inclusion, recognizing that a more diverse workforce leads to increased innovation and better problem-solving.\r\n\r\nLooking Toward a More Inclusive Future:\r\nAs HerTechTalent gains traction, it is anticipated to inspire similar initiatives across the tech industry. By championing diversity and inclusivity, this initiative is not only creating a more equitable working environment but also paving the way for a future where technology truly reflects the diversity of the world it serves.\r\n\r\nThe HerTechTalent initiative serves as a beacon of hope, signaling a positive shift towards a more inclusive and diverse tech industry, where talent knows no gender or background.",
+        "image": "https://www.pwc.co.uk/women-in-technology/women-In-tech-new.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 10,
+    "fields": {
+        "title": "Women in Technology Aren't Statistical Aberrations: Breaking Barriers and Shaping the Future",
+        "author": 1,
+        "pub_date": "2023-12-11T09:52:00Z",
+        "content": "A Rising Tide of Female Talent Challenges Stereotypes and Drives Innovation\r\n\r\nIn a tech landscape traditionally dominated by men, women are making significant strides, challenging the notion that their presence in the industry is a statistical aberration. The narrative is shifting as more women embrace careers in technology, contributing their skills and perspectives to shape the future of the field.\r\n\r\nBreaking Stereotypes\r\n\r\nLong-standing stereotypes depicting the tech industry as a male-dominated domain have persisted for years. However, recent developments highlight a growing number of women breaking through barriers and making their mark. Industry leaders and advocates are emphasizing the importance of diversity in fostering innovation and problem-solving.\r\n\r\nLeadership and Innovation\r\n\r\nProminent figures like [Prominent Female Tech Leader], who serves as [Her Position] at [Her Company], are inspiring others with their leadership and groundbreaking contributions. These women are not merely statistical outliers but key players in steering technology towards new horizons.\r\n\r\nClosing the Gender Gap\r\n\r\nEfforts to close the gender gap in technology are gaining momentum, with various initiatives focused on encouraging girls and young women to pursue STEM (science, technology, engineering, and mathematics) education and careers. Schools, organizations, and companies are investing in programs that provide mentorship, scholarships, and networking opportunities to support women in the tech sector.\r\n\r\nChanging Narratives\r\n\r\nThe narrative is evolving from one of statistical anomaly to recognizing the inherent value that diverse perspectives bring to the tech industry. Companies are increasingly understanding that diverse teams lead to more creative problem-solving and enhanced innovation.\r\n\r\nGlobal Impact\r\n\r\nThis shift isn't confined to a specific region; it's a global movement. From Silicon Valley to emerging tech hubs worldwide, women are proving that their contributions are not just noteworthy but essential for the industry's progress.\r\n\r\nChallenges and Opportunities\r\n\r\nWhile progress is evident, challenges persist. Gender biases, workplace inequality, and a lack of representation at the executive level are hurdles that women in technology continue to face. However, these challenges also present opportunities for the industry to address and rectify systemic issues.\r\n\r\nLooking Ahead\r\n\r\nAs the tech landscape undergoes a transformation, women in technology are asserting their presence and influencing the industry's trajectory. The narrative is changing from statistical aberration to recognizing women as integral contributors to the technological advancements that shape our future.\r\n\r\nIn the coming years, the hope is that the headlines will shift focus from the gender of tech professionals to the groundbreaking innovations and transformative changes they bring to the world. Women in technology are not anomalies—they are pioneers, trailblazers, and indispensable contributors to the ever-evolving realm of technology.",
+        "image": "https://www.mesaonline.org/wp-content/uploads/2018/03/women-tech-1-e1520524418436.jpg"
+    }
+},
+{
+    "model": "news.newsstory",
+    "pk": 11,
+    "fields": {
+        "title": "Breaking Barriers: Empowering Women in Technology Takes Center Stage",
+        "author": 1,
+        "pub_date": "2023-12-13T09:45:00Z",
+        "content": "In a revolutionary stride toward gender equality in the tech industry, initiatives are emerging to address the underrepresentation of women and foster an inclusive environment. From coding bootcamps to leadership programs, the spotlight is now firmly on empowering women in technology.\r\n\r\nAmidst the rapidly evolving tech landscape, the need for diverse perspectives has never been more critical. Industry leaders are recognizing the untapped potential of women and are actively working to bridge the gender gap. A recent surge in mentorship programs, networking events, and advocacy campaigns is testament to this growing commitment.\r\n\r\nTech giants are taking proactive steps to foster a culture of inclusivity within their organizations. Initiatives such as flexible work schedules, remote opportunities, and family-friendly policies are being implemented to create an environment that supports the diverse needs of women in technology.\r\n\r\nCoding academies are also playing a pivotal role in equipping women with the skills needed to thrive in the tech world. Specialized programs are tailored to address the unique challenges faced by women entering the field, providing a supportive and collaborative learning environment.\r\n\r\nNotably, women-led tech organizations are gaining momentum, offering a platform for female professionals to connect, collaborate, and share experiences. These groups are fostering a sense of community, encouraging mentorship, and serving as catalysts for change within the industry.\r\n\r\nGovernment bodies are joining the movement by investing in educational initiatives that encourage young girls to pursue STEM (science, technology, engineering, and mathematics) careers. Scholarships, coding camps, and mentorship programs are being introduced to inspire the next generation of female tech leaders.\r\n\r\nDespite these positive strides, challenges persist, and the road to gender equality in technology remains an ongoing journey. However, the collective efforts of individuals, companies, and communities are reshaping the narrative and dismantling barriers that have long hindered women in technology.\r\n\r\nAs the tech industry evolves, the empowerment of women in technology is not just a matter of equality; it is a strategic imperative for innovation and progress. The momentum is building, and the future promises a tech landscape that reflects the diverse talent and perspectives of all individuals, irrespective of gender.",
+        "image": "https://www.arabianbusiness.com/cloud/2023/05/31/artificial-intelligence.jpg"
+    }
+}
+]
