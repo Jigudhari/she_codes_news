@@ -11,15 +11,16 @@ header {
     border-bottom: 1px solid #000;
 }
 
-img {
+/* #img {
     filter: grayscale(100%);
-}
+} */
 
 h1 {
     font-family: 'Montserrat Subrayada', sans-serif;
     text-decoration: none;
     font-size: 4rem;
     margin: 0;
+    color: purple;
 }
 
 h2 {
@@ -39,7 +40,7 @@ h3 {
 nav {
     flex-basis: 20%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-end;
 }
 
@@ -47,8 +48,58 @@ a {
     margin: 2px;
     text-decoration: none;
     color: #000;
+    font-size: large;
+}
+nav a {
+    padding: 0px 7px;
+    margin:0px;
+}
+
+nav a:hover {
+    color: purple;
 }
 
 a, p {
     font-family: monospace;
+}
+form {
+    
+    padding: 10% 25%;
+}
+
+input{
+    width: 100%;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    width: 30%;
+    background-color: purple;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 2% 0;
+    float: right;
+    font-size: large;
+}
+
+input[type=text], input[type=datetime-local], textarea, input[type=url] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+label {
+padding: 12px 12px 12px 0;
+display: inline-block;
+font-family: Arial, Helvetica, sans-serif ;
+font-weight: bold;
+}
+
+
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+background-color: mediumpurple;
 }

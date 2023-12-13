@@ -2,13 +2,20 @@
 {% load static %}
 
 {% block stylesheets %}
-   <link rel="stylesheet" type="text/css" href="{% static 'news/styles.css' %}">
+   <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
 
 {% endblock %}
 
 {% block content %}
 <br>
-<a href="{% url 'news:newStory' %}">Write New Story</a>
+<!-- <a href="{% url 'news:newStory' %}">Write New Story</a> -->
+{% if request.user.is_authenticated %}
+    <div id="welcomeuser">
+    <h4>Welcome {{ user.username }}! Please click here to write a new story &nbsp;</h4>
+    <a href="{% url 'news:newStory' %}" id="NewStory">WRITE NEW STORY</a>
+    </div>
+    {% endif %}
+
 <h2>Latest News</h2>
 
     <div id="latest-stories">
@@ -21,7 +28,7 @@
         {% endif %}
     </div>
 
-    <div id="all-stories">
+    <!-- <div id="all-stories">
         {% if latest_stories %}
             {% for story in all_stories %}
              {% include "./storyCard.html" with story=story %}
@@ -29,5 +36,5 @@
         {% else %}
             <p>No stories are available.</p>
         {% endif %}
-    </div>
+    </div> -->
 {% endblock %}

@@ -84,3 +84,37 @@
     margin: 0 0 10px 10px;
     width: 50%;
 }
+#welcomeuser {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+#story-wrapper {
+    display: flex;  
+    flex-direction: column;
+}
+#story-card-update {
+    display: flex;
+    flex-direction: row;
+    justify-content:end;
+    margin-top:10px;
+    padding:5px;
+}
+
+#story-card-update a{
+    background-color:orange;
+    padding:2px 4px;
+}
+#story-card-disable {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#story-card-disable a {
+    background-color: gray;
+    padding: 2px 4px;
+}

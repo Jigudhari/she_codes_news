@@ -4,9 +4,27 @@
     <link rel="stylesheet" type="text/css" href="{% static 'news/styles.css' %}">
 {% endblock %}
 {% block content %}
+{% if request.user.is_authenticated %}
+    {% if request.user == story.author %}
+<div id="story-card-update">
+    <a href="{% url 'news:updateStory' story.id%}">EDIT</a>&nbsp;&nbsp;
+    <a href="{% url 'news:deleteStory' story.id%}">DELETE</a>&nbsp;
+</div>
+     {% else %}
+<div id="story-card-disable">
+    <a role="link" aria-disabled="true">EDIT</a>&nbsp;&nbsp;
+    <a role="link" aria-disabled="true">DELETE</a>&nbsp;
+</div>
+     {% endif %}
+     {% else %}
+<div id="story-card-disable">
+    <a role="link" aria-disabled="true">EDIT</a>&nbsp;&nbsp;
+    <a role="link" aria-disabled="true">DELETE</a>&nbsp;
+</div>
+ {% endif %}
     <div id="story-wrapper">
         <h2>{{ story.title }}</h2>
-        <h4>{{ story.author }}</h4>
+        <h4><a  href="{% url 'news:authorstories' story.author.id %}">{{ story.author }}</a></h4>
         <div id="story-content">
         {% if story.image %}
             <img src="{{ story.image }}">

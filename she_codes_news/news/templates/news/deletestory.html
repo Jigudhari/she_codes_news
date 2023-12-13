@@ -1,0 +1,12 @@
+{% extends "base.html"%}
+{% block content %}
+<h2>Confirm Delete</h2>
+<form method="post">
+	<div id="cancelButtonDiv">
+		<h4>Are you sure you want to delete?</h4>
+		{% csrf_token %}
+		<input type="submit" value="YES">
+		<a id="cacelLink" href="{% url 'news:index' %}">CANCEL</a>
+	</div>
+</form>
+{% endblock %}
