@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@700&display=swap');
 
 body {
-    background-color: rgb(240, 239, 239);
+    background-color:rgba(233, 212, 239, 0.951);
+    color: black;
+    border: 1px solid #000;
 }
-
 header {
     display: flex;
     align-items: center;
@@ -20,7 +21,7 @@ h1 {
     text-decoration: none;
     font-size: 4rem;
     margin: 0;
-    color: purple;
+    color: rgb(93, 19, 93);
 }
 
 h2 {
@@ -47,7 +48,7 @@ nav {
 a {
     margin: 2px;
     text-decoration: none;
-    color: #000;
+    color:yellowgreen;
     font-size: large;
 }
 nav a {
@@ -56,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-    color: purple;
+    color: rgb(230, 184, 230);
 }
 
 a, p {
@@ -71,7 +72,7 @@ input{
     width: 100%;
 }
 
-input[type=button], input[type=submit], input[type=reset] {
+input[type=button], input[type=submit], input[type=reset], button {
     width: 30%;
     background-color: purple;
     color: white;
@@ -84,7 +85,7 @@ input[type=button], input[type=submit], input[type=reset] {
     font-size: large;
 }
 
-input[type=text], input[type=datetime-local], textarea, input[type=url] {
+input[type=text], input[type=datetime-local], textarea, input[type=url], input[type=password], input[type=email]{
     width: 100%;
     padding: 12px 20px;
     margin: 5px 0;
@@ -102,4 +103,8 @@ font-weight: bold;
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
 background-color: mediumpurple;
+}
+.dark-mode {
+    background-color: rgba(142, 5, 5, 0.951);
+    color: white;
 }

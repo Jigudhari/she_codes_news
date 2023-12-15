@@ -1,0 +1,5 @@
+<h2>Articles by {{ author.name }}</h2>
+{% for article in articles %}
+    <h3>{{ article.title }}</h3>
+    <p>{{ article.content }}</p>
+{% endfor %}
